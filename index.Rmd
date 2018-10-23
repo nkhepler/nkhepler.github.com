@@ -3,6 +3,10 @@ title: "Nate Hepler's website"
 output: 
   html_document:
     theme: spacelab
+    toc: true
+    toc_depth: 3
+    toc_float: true
+    
 ---
 
 ```{r setup, include=FALSE}
@@ -11,7 +15,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## About
 
-Currently a graduate student at Penn State University, majoring in Plant Biology.
+Currently a graduate student at Penn State University, majoring in Plant Biology. Recently I have developed an interest in computer science and computational biology, which has begun to shape both my current research and future aspirations. 
 
 ## Interests
 
@@ -22,6 +26,9 @@ Currently a graduate student at Penn State University, majoring in Plant Biology
 ## Projects
 
 - list of projects
+
+## Courses and Workshops
+
 
 ## Profiles
 
