@@ -3,9 +3,8 @@ title: "About Me"
 ---
 
 
-## About
 
-Working on my PhD  at Penn State University, majoring in Plant Biology. Recently I have developed an interest in computer science and computational biology, which has begun to shape both my current research and future aspirations. 
+Currently, I am working on my PhD  at Penn State University, majoring in Plant Biology. Recently I have developed an interest in computer science and computational biology, which has begun to shape both my current research and future aspirations. 
 
 ## Interests
 
@@ -25,20 +24,4 @@ In 2014, I joined Dan Cosgrove's lab at Penn State University, again focusing on
 * Evolution of the *Spridoela polyrhiza* (Greater Duckweed) expansin superfamily
 * Targeted knock out of expansin genes in *Arabidopsis thaliana* by CRISPR/Cas9
 
-## Professional Training
 
-1. **Teaching Physical Computing with Raspberry Pi and Python**
-    * FutureLearn online course, June 2018
-    * Description: Four-week introductory course on Raspberry Pi and Python. Focus on using programming as a teaching tool.
-
-2. **The Complete Python Course. Learn Python by Doing**
-    * Udemy online course, September 2018
-    * Description: 27.5-hour intensive course on the Python programming language. Content includes basic concepts, object oriented programming, databases, web scraping, and web development.
-
-3. **Biostatistics for Big Data Applications**
-    * edX online course, University of Texas Medical Branch, October 2018
-    * Description: Eight-week course covering fundamental biostatistical methods with a focus on analyzing and visualization data using R.
-
-4. **Chromebook Data Science (CBDS)**
-    * Leanpub online course, Johns Hopkins University, October 2018
-    * Description: 12 course set designed to educate anyone with a computer on the basics of data science. A particular focus is placed upon less expensive methods for performing data analysis (e.g., Chromebook).

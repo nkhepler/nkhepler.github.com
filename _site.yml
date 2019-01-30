@@ -7,3 +7,7 @@ navbar:
       href: index.html
     - text: 'About Me'
       href: about.html
+    - text: 'Professional Training'
+      href: professional_training.html
+    - text: 'Contact'
+      href: contact.html

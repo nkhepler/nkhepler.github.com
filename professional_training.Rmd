@@ -1,0 +1,33 @@
+---
+title: 'Professional Training'
+---
+
+
+## Programming
+
+1. **Teaching Physical Computing with Raspberry Pi and Python**
+    * FutureLearn online course, June 2018
+    * Description: Four-week introductory course on Raspberry Pi and Python. Focus on using programming as a teaching tool.
+
+2. **The Complete Python Course. Learn Python by Doing**
+    * Udemy online course, September 2018
+    * Description: 27.5-hour intensive course on the Python programming language. Content includes basic concepts, object oriented programming, databases, web scraping, and web development.
+
+3. **Chromebook Data Science (CBDS)**
+    * Leanpub online course, Johns Hopkins University, October 2018
+    * Description: 12 course set designed to educate anyone with a computer on the basics of data science. A particular focus is placed upon less expensive methods for performing data analysis (e.g., Chromebook). All data analysis is taught using R.
+    
+    
+## Statistics
+
+1. **Biostatistics for Big Data Applications**
+    * edX online course, University of Texas Medical Branch, October 2018
+    * Description: Eight-week course covering fundamental biostatistical methods with a focus on analyzing and visualization data using R.
+    
+2. **Statistics for Data Analysis and Business Analysis**
+    * Udemy online course, January 2019
+    * Description: Five-hour course on statistics and data analysis, spanning basic concepts through regression analysis.
+    
+3. **Statistics for Business Analytics and Data Science A-Z**
+    * Udemy online course, January 2019
+    * Description: 7-hour course on statistics and data analysis.

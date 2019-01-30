@@ -3,9 +3,6 @@ title: "Nate Hepler's website"
 output: 
   html_document:
     theme: spacelab
-    toc: true
-    toc_depth: 2
-    toc_float: true
     
 ---
 
@@ -21,7 +18,3 @@ knitr::opts_chunk$set(echo = TRUE)
 - [Blog](https://nathanhepler.wordpress.com)
 - [Penn State](https://www.huck.psu.edu/people/nathan-hepler)
 
-## Contact
-
-- nkh117 [at] psu [dot] edu
-- nkhepler001 [at] gmail [dot] com
