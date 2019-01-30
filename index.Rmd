@@ -1,9 +1,5 @@
 ---
 title: "Nate Hepler's website"
-output: 
-  html_document:
-    theme: spacelab
-    
 ---
 
 ```{r setup, include=FALSE}

@@ -11,3 +11,6 @@ navbar:
       href: professional_training.html
     - text: 'Contact'
       href: contact.html
+output:
+  html_document:
+    theme: flatly
