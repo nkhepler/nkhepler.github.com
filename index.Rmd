@@ -6,11 +6,4 @@ title: "Nate Hepler's website"
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Profiles
-
-- [LinkedIn](https://www.linkedin.com/in/nathankhepler/)
-- [GitHub](https://github.com/nkhepler)
-- [Twitter](https://twitter.com/nate_hepler)
-- [Blog](https://nathanhepler.wordpress.com)
-- [Penn State](https://www.huck.psu.edu/people/nathan-hepler)
 

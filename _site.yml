@@ -15,6 +15,15 @@ navbar:
     - text: 'Contact'
       icon: fa-envelope-open
       href: contact.html
+  right:
+    - icon: fa-linkedin
+      href: https://www.linkedin.com/in/nathankhepler/)
+    - icon: fa-github
+      href: https://github.com/nkhepler
+    - icon: fa-twitter
+      href: https://twitter.com/nate_hepler
+    - icon: fa-wordpress
+      href: https://nathanhepler.wordpress.com/blog/
 output:
   html_document:
     theme: sandstone
