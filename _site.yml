@@ -4,13 +4,17 @@ navbar:
   title: "Nate Hepler's Website"
   left:
     - text: 'Home'
+      icon: fa-home
       href: index.html
     - text: 'About Me'
+      icon: fa-newspaper
       href: about.html
     - text: 'Professional Training'
+      icon: fa-toolbox
       href: professional_training.html
     - text: 'Contact'
+      icon: fa-envelope-open
       href: contact.html
 output:
   html_document:
-    theme: flatly
+    theme: sandstone
