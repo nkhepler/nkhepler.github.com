@@ -1,0 +1,9 @@
+name: 'nates-website'
+output_dir: '.'
+navbar:
+  title: "Nate Hepler's Website"
+  left:
+    - text: 'Home'
+      href: index.html
+    - text: 'About Me'
+      href: about.html
