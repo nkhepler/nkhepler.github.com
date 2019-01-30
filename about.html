@@ -11,17 +11,14 @@
 
 
 
-<title>Nate Hepler’s website</title>
+<title>About Me</title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<link href="site_libs/bootstrap-3.3.5/css/spacelab.min.css" rel="stylesheet" />
+<link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
-<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
-<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
-<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
@@ -105,34 +102,34 @@ button.code-folding-btn:focus {
 <style type="text/css">
 /* padding for bootstrap navbar */
 body {
-  padding-top: 52px;
+  padding-top: 51px;
   padding-bottom: 40px;
 }
 /* offset scroll position for anchor links (for fixed navbar)  */
 .section h1 {
-  padding-top: 57px;
-  margin-top: -57px;
+  padding-top: 56px;
+  margin-top: -56px;
 }
 
 .section h2 {
-  padding-top: 57px;
-  margin-top: -57px;
+  padding-top: 56px;
+  margin-top: -56px;
 }
 .section h3 {
-  padding-top: 57px;
-  margin-top: -57px;
+  padding-top: 56px;
+  margin-top: -56px;
 }
 .section h4 {
-  padding-top: 57px;
-  margin-top: -57px;
+  padding-top: 56px;
+  margin-top: -56px;
 }
 .section h5 {
-  padding-top: 57px;
-  margin-top: -57px;
+  padding-top: 56px;
+  margin-top: -56px;
 }
 .section h6 {
-  padding-top: 57px;
-  margin-top: -57px;
+  padding-top: 56px;
+  margin-top: -56px;
 }
 </style>
 
@@ -169,101 +166,6 @@ $(document).ready(function () {
 
 
 
-<script>
-$(document).ready(function ()  {
-
-    // move toc-ignore selectors from section div to header
-    $('div.section.toc-ignore')
-        .removeClass('toc-ignore')
-        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
-
-    // establish options
-    var options = {
-      selectors: "h1,h2",
-      theme: "bootstrap3",
-      context: '.toc-content',
-      hashGenerator: function (text) {
-        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_').toLowerCase();
-      },
-      ignoreSelector: ".toc-ignore",
-      scrollTo: 0
-    };
-    options.showAndHide = true;
-    options.smoothScroll = true;
-
-    // tocify
-    var toc = $("#TOC").tocify(options).data("toc-tocify");
-});
-</script>
-
-<style type="text/css">
-
-#TOC {
-  margin: 25px 0px 20px 0px;
-}
-@media (max-width: 768px) {
-#TOC {
-  position: relative;
-  width: 100%;
-}
-}
-
-
-.toc-content {
-  padding-left: 30px;
-  padding-right: 40px;
-}
-
-div.main-container {
-  max-width: 1200px;
-}
-
-div.tocify {
-  width: 20%;
-  max-width: 260px;
-  max-height: 85%;
-}
-
-@media (min-width: 768px) and (max-width: 991px) {
-  div.tocify {
-    width: 25%;
-  }
-}
-
-@media (max-width: 767px) {
-  div.tocify {
-    width: 100%;
-    max-width: none;
-  }
-}
-
-.tocify ul, .tocify li {
-  line-height: 20px;
-}
-
-.tocify-subheader .tocify-item {
-  font-size: 0.90em;
-  padding-left: 25px;
-  text-indent: 0;
-}
-
-.tocify .list-group-item {
-  border-radius: 0px;
-}
-
-
-</style>
-
-<!-- setup 3col/9col grid for toc_float and main content  -->
-<div class="row-fluid">
-<div class="col-xs-12 col-sm-4 col-md-3">
-<div id="TOC" class="tocify">
-</div>
-</div>
-
-<div class="toc-content col-xs-12 col-sm-8 col-md-9">
-
-
 
 
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
@@ -296,33 +198,62 @@ div.tocify {
 
 
 
-<h1 class="title toc-ignore">Nate Hepler’s website</h1>
+<h1 class="title toc-ignore">About Me</h1>
 
 </div>
 
 
-<div id="profiles" class="section level2">
-<h2>Profiles</h2>
+<div id="about" class="section level2">
+<h2>About</h2>
+<p>Working on my PhD at Penn State University, majoring in Plant Biology. Recently I have developed an interest in computer science and computational biology, which has begun to shape both my current research and future aspirations.</p>
+</div>
+<div id="interests" class="section level2">
+<h2>Interests</h2>
 <ul>
-<li><a href="https://www.linkedin.com/in/nathankhepler/">LinkedIn</a></li>
-<li><a href="https://github.com/nkhepler">GitHub</a></li>
-<li><a href="https://twitter.com/nate_hepler">Twitter</a></li>
-<li><a href="https://nathanhepler.wordpress.com">Blog</a></li>
-<li><a href="https://www.huck.psu.edu/people/nathan-hepler">Penn State</a></li>
+<li>Computational Biology</li>
+<li>Evolutionary Biology</li>
+<li>Genetics</li>
 </ul>
 </div>
-<div id="contact" class="section level2">
-<h2>Contact</h2>
+<div id="projects" class="section level2">
+<h2>Projects</h2>
+<p>As an undergraduate researcher in Rob Carey’s lab at Lebanon Valley College, I helped <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3680112/">elucidate the evolutionary history</a> of expansins in the lycophyte <em>Selaginella moellendorffii</em>.</p>
+<p>Following graduation I received a post-baccalaureate intramural training award (IRTA) to work in the lab of Stephen Leppla at the National Institutes of Health (NIH) in Bethesda, Md. Here I worked on projects related to protein production and <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0183346">genome engineering</a> using an avirulent strain of <em>Bacillus anthracis</em>.</p>
+<p>In 2014, I joined Dan Cosgrove’s lab at Penn State University, again focusing on expansin evolution. I have worked on several projects during graduate school, including:</p>
 <ul>
-<li>nkh117 [at] psu [dot] edu</li>
-<li>nkhepler001 [at] gmail [dot] com</li>
+<li><em>in vitro</em> evolution of cellulose binding module 63 using phage display</li>
+<li>Evolution of the <em>Spridoela polyrhiza</em> (Greater Duckweed) expansin superfamily</li>
+<li>Targeted knock out of expansin genes in <em>Arabidopsis thaliana</em> by CRISPR/Cas9</li>
 </ul>
 </div>
-
-
-
+<div id="professional-training" class="section level2">
+<h2>Professional Training</h2>
+<ol style="list-style-type: decimal">
+<li><strong>Teaching Physical Computing with Raspberry Pi and Python</strong>
+<ul>
+<li>FutureLearn online course, June 2018</li>
+<li>Description: Four-week introductory course on Raspberry Pi and Python. Focus on using programming as a teaching tool.</li>
+</ul></li>
+<li><strong>The Complete Python Course. Learn Python by Doing</strong>
+<ul>
+<li>Udemy online course, September 2018</li>
+<li>Description: 27.5-hour intensive course on the Python programming language. Content includes basic concepts, object oriented programming, databases, web scraping, and web development.</li>
+</ul></li>
+<li><strong>Biostatistics for Big Data Applications</strong>
+<ul>
+<li>edX online course, University of Texas Medical Branch, October 2018</li>
+<li>Description: Eight-week course covering fundamental biostatistical methods with a focus on analyzing and visualization data using R.</li>
+</ul></li>
+<li><strong>Chromebook Data Science (CBDS)</strong>
+<ul>
+<li>Leanpub online course, Johns Hopkins University, October 2018</li>
+<li>Description: 12 course set designed to educate anyone with a computer on the basics of data science. A particular focus is placed upon less expensive methods for performing data analysis (e.g., Chromebook).</li>
+</ul></li>
+</ol>
 </div>
-</div>
+
+
+
 
 </div>
 
