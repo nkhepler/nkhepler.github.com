@@ -5,7 +5,7 @@ title: "Nate Hepler's website"
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-
+<br>
 Welcome! Currently, I am working on my PhD at [Penn State University](https://www.huck.psu.edu/people/nathan-hepler), majoring in Plant Biology. Recently I have developed an interest in computer science and computational biology, which has begun to shape both my current research and future aspirations. 
 
 Click on the About Me tab above to read more about my research and personal interests. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/nathankhepler/) and [Twitter](https://twitter.com/nate_hepler) or shoot me an email with any questions. Thanks!

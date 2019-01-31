@@ -1,10 +1,12 @@
-
+<br>
 
 ## Interests
 
 * Computational Biology
 * Evolutionary Biology
 * Genetics
+
+<br>
 
 ## Projects
 
@@ -17,5 +19,9 @@ In 2014, I joined Dan Cosgrove's lab at Penn State University, again focusing on
 * *in vitro* evolution of cellulose binding module 63 using phage display
 * Evolution of the *Spridoela polyrhiza* (Greater Duckweed) expansin superfamily
 * Targeted knock out of expansin genes in *Arabidopsis thaliana* by CRISPR/Cas9
+ 
+ <br>
+
+![Presenting my research at Penn State's Plant Biology Seminar Series](img_1543.jpg)
 
 

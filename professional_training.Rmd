@@ -1,6 +1,11 @@
+<br>
 
+## Overview
+I have taken a number of MOOCs on programming, statistics and data analytics. Below is a selected list of the more comprehensive courses.
 
-## Programming
+<br>
+
+### Programming
 
 1. **Teaching Physical Computing with Raspberry Pi and Python**
     * FutureLearn online course, June 2018
@@ -14,8 +19,9 @@
     * Leanpub online course, Johns Hopkins University, October 2018
     * Description: 12 course set designed to educate anyone with a computer on the basics of data science. A particular focus is placed upon less expensive methods for performing data analysis (e.g., Chromebook). All data analysis is taught using R.
     
-    
-## Statistics
+<br>
+
+### Statistics
 
 1. **Biostatistics for Big Data Applications**
     * edX online course, University of Texas Medical Branch, October 2018
