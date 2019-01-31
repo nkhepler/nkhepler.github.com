@@ -3,8 +3,6 @@ title: "About Me"
 ---
 
 
-Currently, I am working on my PhD at [Penn State University](https://www.huck.psu.edu/people/nathan-hepler), majoring in Plant Biology. Recently I have developed an interest in computer science and computational biology, which has begun to shape both my current research and future aspirations. 
-
 ## Interests
 
 * Computational Biology
