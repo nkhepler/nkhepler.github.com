@@ -17,7 +17,7 @@ navbar:
       href: contact.html
   right:
     - icon: fa-linkedin
-      href: https://www.linkedin.com/in/nathankhepler/)
+      href: https://www.linkedin.com/in/nathankhepler/
     - icon: fa-github
       href: https://github.com/nkhepler
     - icon: fa-twitter

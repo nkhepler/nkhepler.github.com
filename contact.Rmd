@@ -1,6 +1,4 @@
----
-title: 'Contact'
----
+
 
 Feel free to contact me with any questions regarding my work.
 
