@@ -1,0 +1,22 @@
+<br>
+
+## Publications ##
+
+<br>
+
+### Accepted ###
+
+**Hepler NK**, Bowman A, Carey RE and Cosgrove DJ. 2019. Expansin loss is a common occurrence during adaptation to an aquatic environment. 
+
+<br>
+
+
+### Published ###
+
+**Hepler NK** and Cosgrove DJ. [Directed in vitro evolution of bacterial expansin BsEXLX1 for higher cellulose binding and its consequences for plant cell wall‐loosening activities](https://febs.onlinelibrary.wiley.com/doi/full/10.1002/1873-3468.13528). *FEBS Letters*. doi: 10.1002/1873-3468.13528
+
+Pomerantsev AP, McCall RM, Chahoud M, **Hepler NK**, Fattah R and Leppla SH. 2017. [Genome engineering in Bacillus anthracis using tyrosine site-specific recombinases](http://dx.plos.org/10.1371/journal.pone.0183346). *PLoS ONE*. 22(8):e0183346. doi: 10.1371/journal.pone.0183346
+
+Cosgrove DJ, **Hepler NK**, Wagner ER and Durachko DM. 2017. [Measuring the Biomechanical Loosening Action of Bacterial Expansins on Paper and Plant Cell Walls](https://link.springer.com/protocol/10.1007%2F978-1-4939-6899-2_12). *Methods Mol Biol*. 1588: 157-165. 
+
+Carey RE, **Hepler NK** and Cosgrove DJ. 2013. [Selaginella moellendorffii has a reduced and highly conserved expansin superfamily with genes more closely related to angiosperms than to bryophytes](https://bmcplantbiol.biomedcentral.com/articles/10.1186/1471-2229-13-4). *BMC Plant Biol*. 13:4.  doi: 10.1186/1471-2229-13-4

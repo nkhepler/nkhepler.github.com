@@ -12,6 +12,9 @@ navbar:
     - text: 'Professional Training'
       icon: fa-toolbox
       href: professional_training.html
+    - text: 'Publications'
+      icon: fa-book
+      href: publications.html
     - text: 'Contact'
       icon: fa-envelope-open
       href: contact.html
