@@ -6,3 +6,4 @@ setwd("~/Desktop/codes/website/nkhepler.github.com")
 
 #render your sweet site. 
 rmarkdown::render_site()
+

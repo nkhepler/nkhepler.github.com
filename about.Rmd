@@ -16,8 +16,8 @@ Following graduation I received a post-baccalaureate intramural training award (
 
 In 2014, I joined Dan Cosgrove's lab at Penn State University, again focusing on expansin evolution. I have worked on several projects during graduate school, including:
 
-* *in vitro* evolution of cellulose binding module 63 using phage display
-* Evolution of the *Spridoela polyrhiza* (Greater Duckweed) expansin superfamily
+* [*in vitro*](https://febs.onlinelibrary.wiley.com/doi/full/10.1002/1873-3468.13528) evolution of cellulose binding module 63 using phage display
+* Evolution of expansin superfamilies in aquatic plants
 * Targeted knock out of expansin genes in *Arabidopsis thaliana* by CRISPR/Cas9
  
  <br>
