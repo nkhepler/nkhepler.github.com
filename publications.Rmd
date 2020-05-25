@@ -6,14 +6,13 @@
 
 ### Accepted ###
 
-**Hepler NK**, Bowman A, Carey RE and Cosgrove DJ. 2019. Expansin loss is a common occurrence during adaptation to an aquatic environment. 
-
 <br>
 
 
 ### Published ###
+**Hepler NK**, Bowman A, Carey RE and Cosgrove DJ. 2020. [Expansin loss is a common occurrence during adaptation to an aquatic environment](https://onlinelibrary.wiley.com/doi/abs/10.1111/tpj.14572). *The Plant Journal*. 101(3): 666-680. doi: 10.1111/tpj.14572
 
-**Hepler NK** and Cosgrove DJ. [Directed in vitro evolution of bacterial expansin BsEXLX1 for higher cellulose binding and its consequences for plant cell wall‐loosening activities](https://febs.onlinelibrary.wiley.com/doi/full/10.1002/1873-3468.13528). *FEBS Letters*. doi: 10.1002/1873-3468.13528
+**Hepler NK** and Cosgrove DJ. [Directed in vitro evolution of bacterial expansin BsEXLX1 for higher cellulose binding and its consequences for plant cell wall‐loosening activities](https://febs.onlinelibrary.wiley.com/doi/full/10.1002/1873-3468.13528). *FEBS Letters*. 593(18): 2545-2555. doi: 10.1002/1873-3468.13528
 
 Pomerantsev AP, McCall RM, Chahoud M, **Hepler NK**, Fattah R and Leppla SH. 2017. [Genome engineering in Bacillus anthracis using tyrosine site-specific recombinases](http://dx.plos.org/10.1371/journal.pone.0183346). *PLoS ONE*. 22(8):e0183346. doi: 10.1371/journal.pone.0183346
 
